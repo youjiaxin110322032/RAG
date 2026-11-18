@@ -1,0 +1,5 @@
+streamlit>=1.38
+line-bot-sdk>=3.11
+openai>=1.40
+numpy>=1.26
+pypdf>=4.0
